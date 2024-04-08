@@ -3,7 +3,7 @@
 - wm: Hyprland
 - editor: neovim (Nvchad)
 - terminal: foot
-- plugin for Hyprland : hyprfocus
+- plugin for Hyprland : [hyprfocus](https://github.com/pyt0xic/hyprfocus)
 - bar: waybar
 - browser: Min browser
 - shell: fish
